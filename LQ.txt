@@ -1,0 +1,9 @@
+ml: function() {
+				$(".mls").css("display", "block")
+			},
+			LQ.txt
+			
+			public   void show(){
+               akslfjg;
+                
+			}
